@@ -36,6 +36,6 @@ Skills:
   </a>
 </p>
 
-[![Linkedin](https://skillicons.dev/icons?i=js,html,css,wasm)]([https://skillicons.dev](https://www.linkedin.com/in/esteban-giovanni-lagos-villegas-bbaa2b210))
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/esteban-giovanni-lagos-villegas-bbaa2b210))
 
 
