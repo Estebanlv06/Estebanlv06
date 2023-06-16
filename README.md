@@ -1,4 +1,4 @@
-### Hi there 👋
+### Esteban Lagos 👋
 
 <!--
 **Estebanlv06/Estebanlv06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-Esteban Lagos
-Desarrollador Web | Aprendiendo Python
+
+# Desarrollador Web | Aprendiendo Python
 ¡Hola! Soy Esteban Lagos, un entusiasta desarrollador web con experiencia en varias tecnologías de frontend y backend. Mi enfoque principal está en el desarrollo web, pero también estoy en constante aprendizaje de Python.
 
 Aunque todavía estoy fortaleciendo mis conocimientos, puedo realizar proyectos de manera efectiva y entregar resultados de calidad.
