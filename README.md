@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Esteban Lagos
+Desarrollador Web | Aprendiendo Python
+¡Hola! Soy Esteban Lagos, un entusiasta desarrollador web con experiencia en varias tecnologías de frontend y backend. Mi enfoque principal está en el desarrollo web, pero también estoy en constante aprendizaje de Python.
+
+Aunque todavía estoy fortaleciendo mis conocimientos, puedo realizar proyectos de manera efectiva y entregar resultados de calidad.
+
+Tengo experiencia sólida en JavaScript, HTML y CSS, lo que me permite construir interfaces atractivas y funcionales. He trabajado con frameworks como React y estoy familiarizado con PrimeReact, que utilizo para el diseño de algunos de mis repositorios.
+
+En cuanto al backend, he trabajado con PHP y tengo un nivel intermedio de conocimiento en el framework Laravel. Disfruto de la simplicidad que Laravel ofrece en el desarrollo web y me siento cómodo trabajando con él.
+
+Siempre estoy buscando aprender nuevas tecnologías y expandir mi conjunto de habilidades. Me gustaria enfrentar nuevos desafíos y participar en proyectos que me permitan crecer como desarrollador.
+
+¡Échale un vistazo a mis repositorios para conocer algunos de mis proyectos!
