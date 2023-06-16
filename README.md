@@ -28,13 +28,15 @@ Siempre estoy buscando aprender nuevas tecnologías y expandir mi conjunto de ha
 
 ¡Échale un vistazo a mis repositorios para conocer algunos de mis proyectos!
 
-Skills:
+:call_me_hand: Skills:
 
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=css,git,github,html,js,laravel,mysql,php,py,react,vscode" />
   </a>
 </p>
+
+:love_you_gesture: :envelope: Mi perfil de Linkedin:
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/esteban-giovanni-lagos-villegas-bbaa2b210)
 
