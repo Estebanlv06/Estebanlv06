@@ -30,6 +30,10 @@ Siempre estoy buscando aprender nuevas tecnologías y expandir mi conjunto de ha
 
 Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,git,github,html,js,laravel,mysql,php,py,react,vscode" />
+  </a>
+</p>
 
 
