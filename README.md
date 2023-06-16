@@ -27,3 +27,7 @@ En cuanto al backend, he trabajado con PHP y tengo un nivel intermedio de conoci
 Siempre estoy buscando aprender nuevas tecnologías y expandir mi conjunto de habilidades. Me gustaria enfrentar nuevos desafíos y participar en proyectos que me permitan crecer como desarrollador.
 
 ¡Échale un vistazo a mis repositorios para conocer algunos de mis proyectos!
+
+###Otros:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
