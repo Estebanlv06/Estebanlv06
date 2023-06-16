@@ -31,9 +31,11 @@ Siempre estoy buscando aprender nuevas tecnologías y expandir mi conjunto de ha
 Skills:
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=css,git,github,html,js,laravel,mysql,php,py,react,vscode" />
   </a>
 </p>
+
+[![Linkedin](https://skillicons.dev/icons?i=js,html,css,wasm)]([https://skillicons.dev](https://www.linkedin.com/in/esteban-giovanni-lagos-villegas-bbaa2b210))
 
 
