@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-# Desarrollador Web | Aprendiendo Python
+# Desarrollador Web | Python
 👋¡Hola! Soy Esteban Lagos, desarrollador web con experiencia en varias tecnologías de frontend y backend. Mi enfoque principal está en el desarrollo web, pero también estoy en constante aprendizaje de Python.
 
 :books: Aunque todavía estoy fortaleciendo mis conocimientos, puedo realizar proyectos de manera efectiva y entregar resultados de calidad.
