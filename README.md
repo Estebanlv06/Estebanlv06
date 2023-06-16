@@ -32,7 +32,7 @@ Siempre estoy buscando aprender nuevas tecnologías y expandir mi conjunto de ha
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=css,git,github,html,js,laravel,mysql,php,py,react,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,mysql,git,github,py,vscode" />
   </a>
 </p>
 
