@@ -28,6 +28,8 @@ Siempre estoy buscando aprender nuevas tecnologías y expandir mi conjunto de ha
 
 ¡Échale un vistazo a mis repositorios para conocer algunos de mis proyectos!
 
-###Otros:
+Skills:
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
